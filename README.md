@@ -1,7 +1,6 @@
 <img width="1000" alt="banner" src="https://github.com/user-attachments/assets/efdf982f-6a3a-40a4-b842-ae2f840dd08b" />
 
-
-Apasionada por la informática, estudiante de la carrera de Informática en la **Universidad Mayor 
+Estudiante de la carrera de Informática en la **Universidad Mayor 
 de San Andrés (UMSA)**
 Me especializo en **desarrollo web y desarrollo movil**, con experiencia en:
 
