@@ -9,27 +9,6 @@ Me especializo en **desarrollo web y desarrollo movil**, con experiencia en:
 
 ---
 
-##  Proyectos destacados
-
-### 🔹 Individuales
-- [Tienda de Cosméticos](https://github.com/KRocioCC/Tienda-de-Cosmeticos)  
-  E-commerce web para gestión de productos y ventas.
-- [Sistema de Gestión de Citas Médicas](https://github.com/KRocioCC/Sistema-de-Gestion-de-Citas-Medicas)  
-  Plataforma para agendar y administrar citas médicas.
-- [LUAR: Localización GPS con ESP32](https://github.com/KRocioCC/LUAR-Localizacion-GPS-con-ESP32-)  
-  Proyecto IoT para rastreo GPS con microcontrolador ESP32.
-- [Votos Electrónicos - Backend](https://github.com/KRocioCC/votos_electronicos)  
-  API para gestión de elecciones electrónicas.
-- [Votos Electrónicos - Frontend](https://github.com/KRocioCC/votos_electronicos_frontend)  
-  Interfaz web para el sistema de votación electrónica.
-
-### 🔹 Colaborativos
-- [Áreas Deportivas - Backend](https://github.com/KRocioCC/areas_deportivas) (Rol de ADMINISTRADOR) 
-- [Áreas Deportivas - Frontend](https://github.com/KRocioCC/frontend_areas_deportivas) (Rol de ADMINISTRADOR) 
-
-### 🔹 Organización
-- [Nest Microservicios - Products Launcher](https://github.com/Nest-Microservicios-T/products-launcher)  
-  Proyecto de microservicios con NestJS y Docker.
 
 ---
 
